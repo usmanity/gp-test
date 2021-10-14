@@ -1,2 +1,5 @@
-name: GitHub Pages
+name: deploy to Pages
+
+on: push
+
 uses: crazy-max/ghaction-github-pages@v2.5.0
